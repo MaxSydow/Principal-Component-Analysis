@@ -1,6 +1,6 @@
-# Principal-Component-Analysis
+# PCA - Variance Thresholds and Dimensional Reduction 
 
-# Contents
+# Project motivitation and methodolody.
 
 [Investigative Question and Goal](#investigative-question-and-goal)
 
