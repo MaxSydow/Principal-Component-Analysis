@@ -2,7 +2,7 @@
 
 # Contents
 
-[Investigative Question and Goal](#Investigative-Question-and-Goal)
+[Investigative Question and Goal](#investigative-question-and-goal)
 
 
 
