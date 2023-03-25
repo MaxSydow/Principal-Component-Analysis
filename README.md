@@ -2,12 +2,12 @@
 
 # Contents
 
-[Investigative_Question_and_Goal](#Investigative-Question-and-Goal)
+[Investigative Question and Goal](#Investigative-Question-and-Goal)
 
 
 # Methodology and Assumptions
 [Method Justification and Assumptions](#Method Justification and Assumptions)
-##Method Justification and Assumptions
+
 
 # ETL and Analysis
 
