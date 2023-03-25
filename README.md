@@ -3,7 +3,7 @@
 # Contents
 
 [Investigative Question and Goal](#investigative-question-and-goal)
-
+[Method Justification and Assumptions](#method-justification-and-assumptions)
 
 Without customers an internet service provider (ISP) could not stay in business. Like many other businesses it is important to retain existing customers, especially in areas where competing ISPs are an option. Churn can be described as customer turnover, while tenure refers to how long a customer keeps their services.
 
